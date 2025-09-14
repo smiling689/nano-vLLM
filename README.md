@@ -2,6 +2,8 @@
 
 A lightweight vLLM implementation built from scratch. Forked for my own study.
 
+A notebook from others: [nano_vllm_note](https://github.com/LDLINGLINGLING/nano_vllm_note)
+
 ## Key Features
 
 * 🚀 **Fast offline inference** - Comparable inference speeds to vLLM
