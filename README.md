@@ -1,6 +1,6 @@
 # Nano-vLLM
 
-A lightweight vLLM implementation built from scratch.
+A lightweight vLLM implementation built from scratch. Forked for my own study.
 
 ## Key Features
 
